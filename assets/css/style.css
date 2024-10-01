@@ -1,0 +1,97 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+  justify-content: space-between;
+}
+.image {
+  margin-left: 80px;
+  display: inline-block;
+}
+.items {
+  float: right;
+  margin-top: 20px;
+}
+ul {
+  margin-right: 100px;
+  text-decoration: none;
+  float: right;
+}
+ul li {
+  margin-right: 15px;
+}
+.list {
+  list-style: none;
+  display: flex;
+}
+.img2 {
+  float: right;
+  margin-right: 100px;
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+.content {
+  background-color: blue;
+  margin: 0;
+  height: 620px;
+  margin-top: 5px;
+}
+.buttons {
+  display: inline-block;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  margin-left: 0;
+}
+#button1 {
+  background-color: transparent;
+  margin-left: 0;
+  border: 1px solid black;
+  color: rgb(0, 4, 7);
+  padding: -6px 32px;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 2px;
+  cursor: pointer;
+  width: 150px;
+  height: 40px;
+}
+#button2 {
+  border: 1px solid black;
+  border: 1px solid red;
+  border: none;
+  color: aliceblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.content {
+  justify-content: space-between;
+}
+.content1 {
+  display: inline-block;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+h2 {
+  font-size: 35px;
+  color: white;
+}
+p {
+  margin-top: 20px;
+  font-size: 20px;
+  color: rgb(201, 193, 193);
+}
